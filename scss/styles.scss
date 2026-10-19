@@ -1,0 +1,23 @@
+$primary-color: #e11d48;
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f1f5f9;
+  text-align: center;
+}
+
+h1 {
+  color: $primary-color;
+}
+
+.button {
+  display: inline-block;
+  padding: 12px 24px;
+  color: white;
+  background-color: $primary-color;
+  border-radius: 8px;
+
+  &:hover {
+    background-color: darkblue;
+  }
+}

@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f1f5f9;
+  text-align: center;
+}
+
+h1 {
+  color: #e11d48;
+}
+
+.button {
+  display: inline-block;
+  padding: 12px 24px;
+  color: white;
+  background-color: #e11d48;
+  border-radius: 8px;
+}
+.button:hover {
+  background-color: darkblue;
+}
+
+/*# sourceMappingURL=styles.css.map */
